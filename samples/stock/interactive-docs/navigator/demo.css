@@ -1,0 +1,21 @@
+button,
+#navigator-slider {
+    height: 36px;
+    padding: 8px 17px;
+    margin: 10px;
+    border: 1px solid #e3e3e8;
+    border-radius: 4px;
+    background-color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+.slidecontainer {
+    width: 100%;
+}
+
+#navigator-slider {
+    width: 50%;
+}
